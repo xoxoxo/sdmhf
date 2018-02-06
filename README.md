@@ -7,7 +7,7 @@ What is it? Basically if you are tired of react, angular or whatever you use and
         /css
             here you add your css files
         /js
-            here you add your css files
+            here you add your js files
         /html
             html goes here
         /html/partials
@@ -40,5 +40,6 @@ Then:
 
 
 ### Changelog
-- 1.0.0
-    -first release
+
+#### 1.0.0
+  -first release

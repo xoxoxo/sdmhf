@@ -14,13 +14,18 @@ What is it? Basically if you are tired of react, angular or whatever you use and
             your html partials
 
 ### How to use?
+
 ##### Html
 To include a partial just do for example `@@include('partials/_nav.html')` for more informations go to https://github.com/coderhaoxin/gulp-file-include
 
 ##### CSS & JS
 Add any files to bundle and minify them in alphabetical order.
 
-### Instalation
+#### End result
+  After bundling everything goes to '/bundle' folder.
+
+
+### Installation
 
     To do before
     Install `http-server` with `npm install http-server -g`

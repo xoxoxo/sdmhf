@@ -35,7 +35,7 @@ Then:
 1. Open terminal and go to your project folder
 2. Use command to install `npm install`
 3. Then use command `gulp` to run project
-4. Open browser at http://localhost:8080/index.html
+4. Open browser at http://localhost:8080/build
 
 
 
